@@ -1,4 +1,4 @@
-package org.learn.java.factorypattern;
+package org.learn.classloaders.learn.java.patterns.factorypattern.shape;
 
 public class Circle implements Shape {
     public void draw() {

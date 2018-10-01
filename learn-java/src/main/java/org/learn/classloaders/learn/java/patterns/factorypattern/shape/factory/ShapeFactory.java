@@ -1,4 +1,4 @@
-package org.learn.java.factorypattern;
+package org.learn.classloaders.learn.java.patterns.factorypattern.shape.factory;
 
 public class ShapeFactory {
 

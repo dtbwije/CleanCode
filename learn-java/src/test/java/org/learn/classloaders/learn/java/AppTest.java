@@ -1,4 +1,4 @@
-package org.learn.java;
+package org.learn.classloaders.learn.java;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
